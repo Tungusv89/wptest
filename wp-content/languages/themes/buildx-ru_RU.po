@@ -1,0 +1,214 @@
+# Translation of Themes - BuildX in Russian
+# This file is distributed under the same license as the Themes - BuildX package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-04 12:15:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - BuildX\n"
+
+#. Description of the theme
+msgid "BuildX WordPress theme is a modern and responsive WordPress theme that ideal choice for blogger which concentrate on Construction topic. This theme can be supported with so many popular plugins. Buildx can perform nicely on any devices or any screen resolution. This theme has a unique page template called front Page Template that allows you to design your own page without worrying about your design will be overwritten by theme design. BuildX has supported Wide Width and Full Width so you or construction worker can make a powerful portofolio without any page builder plugin, just using Gutenberg."
+msgstr "WordPress-тема BuildX  — это современная и адаптивная тема, которая идеально подходит для блогеров, концентрирующихся на теме строительства. Эта тема поддерживается многими популярными плагинами. Buildx может прекрасно работать на любых устройствах, с любым разрешением экрана. Она имеет уникальный шаблон главной страницы, позволяющий создавать собственную страницу, не беспокоясь о том, что ваш дизайн будет перезаписан темой дизайна. BuildX поддерживает Wide Width и Full Width, так что вы или строительный рабочий сможете создать мощное портфолио без плагинов создания страниц, просто используя Gutenberg."
+
+#. Theme Name of the theme
+msgid "BuildX"
+msgstr "BuildX"
+
+#. Template Name of the theme
+msgid "Page No Title template"
+msgstr "Шаблон страницы без заголовка"
+
+#: assets/customizer.php:124
+msgid "Footer Background Color"
+msgstr "Фоновый цвет нижней части"
+
+#: assets/customizer.php:106
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: assets/customizer.php:88
+msgid "Link:hover Color"
+msgstr "Ссылка: цвет при наведении"
+
+#: assets/customizer.php:70
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: assets/customizer.php:52
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: assets/customizer.php:34
+msgid "Heading:hover Color"
+msgstr "Заголовок: цвет при наведении"
+
+#: assets/customizer.php:16
+msgid "Heading Color"
+msgstr "Цвет заголовка"
+
+#: assets/bootstrap-navwalker.php:331
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: assets/custom-functions.php:4
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#: assets/custom-functions.php:79
+msgid "It appears the bootstrap-navwalker.php file may be missing."
+msgstr "Похоже, что файл bootstrap-navwalker.php отсутствует."
+
+#. translators: %s: WordPress url.
+#: footer.php:29
+msgid "All rights reserved. Powered by <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">WordPress</a>."
+msgstr "Все права защищены. Работает на <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">WordPress</a>."
+
+#: search.php:20
+msgid "Search Result For : "
+msgstr "Результаты поиска "
+
+#: template-parts/content-single.php:20
+msgid "Written By "
+msgstr "Автор: "
+
+#: template-parts/content-none.php:11
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:7
+msgid "Sorry, nothing matched your search. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:3
+msgid "There is nothing yet to displayed!"
+msgstr "Там пока ничего не отображается!"
+
+#: template-parts/content.php:21
+msgid "WRITTEN BY "
+msgstr "АВТОР: "
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:20
+msgid " on "
+msgstr "в "
+
+#: template-parts/content-page.php:25
+msgid "Written by "
+msgstr "Автор: "
+
+#: template-parts/content-page-notitle.php:16
+#: template-parts/content-page.php:38 template-parts/content-single.php:36
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: 404.php:24
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Извините, произошла ошибка. Запрошенная страница не найдена!"
+
+#: 404.php:21
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: 404.php:19
+msgid "Oops!"
+msgstr "Ой!"
+
+#: functions.php:145
+msgctxt "placeholder"
+msgid "Search here"
+msgstr "Поиск здесь"
+
+#: functions.php:125
+msgid "Fourth Footer Widget Area"
+msgstr "Четвёртая область виджетов в нижней части"
+
+#: functions.php:123
+msgid "Footer Widget 4"
+msgstr "Виджет 4 нижней части"
+
+#: functions.php:113
+msgid "Third Footer Widget Area"
+msgstr "Третья область виджетов в нижней части"
+
+#: functions.php:111
+msgid "Footer Widget 3"
+msgstr "Виджет 3 нижней части"
+
+#: functions.php:101
+msgid "Second Footer Widget Area"
+msgstr "Вторая область виджетов в нижней части"
+
+#: functions.php:99
+msgid "Footer Widget 2"
+msgstr "Виджет 2 нижней части"
+
+#: functions.php:89
+msgid "First Footer Area"
+msgstr "Первая область виджетов в нижней части"
+
+#: functions.php:87
+msgid "Footer Widget 1"
+msgstr "Виджет 1 нижней части"
+
+#: functions.php:66
+msgid "..."
+msgstr "..."
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr "Меню нижней части"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:75
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:77
+msgid "This is the blog sidebar. You can add your widgets here"
+msgstr "Это область виджетов блога. Здесь вы можете добавить свои виджеты "
+
+#: assets/customizer.php:142
+msgid "Footer Color"
+msgstr "Цвет текста нижней части"
+
+#: 404.php:28
+msgid "Take Me Home"
+msgstr "Перейти на главную страницу сайта"
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/adhitya03/"
+msgstr "https://profiles.wordpress.org/adhitya03/"
+
+#. Author of the theme
+msgid "Adhitya"
+msgstr "Adhitya"
+
+#. Theme URI of the theme
+msgid "https://www.adhityar.com/themes/buildx/"
+msgstr "https://www.adhityar.com/themes/buildx/"
